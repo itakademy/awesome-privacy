@@ -1,4 +1,4 @@
-# Awesome Privacy
+# Awesome Privacy testing
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Limiting personal data leaks on the internet
@@ -86,7 +86,7 @@ Hide your IP address
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
 - [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare
 
-## Host file optimizations 
+## Host file optimizations
 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
 - [Hosts (GitHub project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
@@ -109,7 +109,7 @@ Hide your IP address
 
 - [Telegram](https://telegram.org/) - Heavily encrypted and self-destructing messages.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
-- [Wire](https://wire.com) - End-to-end chats,calls and documents. 
+- [Wire](https://wire.com) - End-to-end chats,calls and documents.
 
 ### Video
 
